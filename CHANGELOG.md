@@ -8,7 +8,6 @@
 - Added docstrings for Inventory class.
 
 - Debugging and linting.
-
 ```
 
 ## day 11
@@ -52,7 +51,6 @@
 - Fixed class dependencies between menu, world, and player.
 
 - Added the gameover menu.
-
 ```
 
 # ...
