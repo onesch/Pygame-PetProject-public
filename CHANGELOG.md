@@ -1,5 +1,15 @@
 # Changelog 2024-07
 
+## day 13
+
+```
+- Refactored Player class.
+
+- Added docstrings for Player and World classes.
+
+- Refactored paths.py.
+```
+
 ## day 12
 
 ```
@@ -16,7 +26,7 @@
 - Fixed bug in room Loading
     in Manage_save(_load_game_content).
 
-- Create Methods "create_" in World Class for Room and Objects.
+- Create Methods "create_" in World Class for room and objects.
 
 - Added docstrings to functions
     run_game, load_menu_settings,
