@@ -2,9 +2,26 @@
 
 The project incorporates complex logic for various game mechanics and interactions between objects, creating a complete gaming environment.
 
-### Game Objects:
+## Game Structure
 
-Player, Crystal, Bomb, Chest, Crymbled_grass, Door, (Enemy)Bat, Healf_heart, House, Sing, (Item)Sword, Trans_zone, Vines.
+### Objects
+- Player
+- Crystal
+- Chest
+- Crymbled Grass
+- Door
+- Transition Zone
+- Vines
+- House
+- Sign
+
+### Items
+- Health Heart
+- Sword
+- Bomb
+
+### Enemies
+- Bat
 
 ## Features
 
