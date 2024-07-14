@@ -1,5 +1,13 @@
 # Changelog 2024-07
 
+## day 14
+
+```
+- Fixed bug involving Player(trans_zone_action) coordinates.
+
+- Fixed bug collision issue with Bat-Player in crumbling grass.
+```
+
 ## day 13
 
 ```
