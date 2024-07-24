@@ -43,8 +43,6 @@ The project incorporates complex logic for various game mechanics and interactio
 
 ## Note
 
-For more information, contact via [Telegram](https://t.me/xAvakov).
-
 Description of the files and the files themselves are only in a private copy.
 
 Code lines: 4400* (the code will be refactored)
